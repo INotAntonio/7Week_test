@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+test(03.26)/MyProject/Intermediate/CachedAssetRegistry.bin
+test(03.26)/MyProject/Saved/AutoScreenshot.png
+test(03.26)/MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-660382674A0F128471021AB96C199B08/CrashReportClient.ini
+test(03.26)/MyProject/Saved/AutoScreenshot.png
+test(03.26)/MyProject/Saved/AutoScreenshot.png
+test(03.26)/MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
