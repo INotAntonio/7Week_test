@@ -78,3 +78,10 @@ test(03.26)/MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-660382674A0F1
 test(03.26)/MyProject/Saved/AutoScreenshot.png
 test(03.26)/MyProject/Saved/AutoScreenshot.png
 test(03.26)/MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+test(03.26)/MyProject/Saved/Logs/MyProject.log
+test(03.26)/MyProject/Saved/Logs/MyProject-backup-2022.04.05-23.43.48.log
+test(03.26)/MyProject/Saved/Logs/MyProject-backup-2022.04.05-04.11.53.log
+test(03.26)/MyProject/Saved/Config/Windows/Engine.ini
+test(03.26)/MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+test(03.26)/MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-9C4882C54D667E57FC05478CEB72B766/CrashReportClient.ini
+test(03.26)/MyProject/Intermediate/CachedAssetRegistry.bin
