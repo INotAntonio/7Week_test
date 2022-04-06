@@ -85,3 +85,4 @@ test(03.26)/MyProject/Saved/Config/Windows/Engine.ini
 test(03.26)/MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 test(03.26)/MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-9C4882C54D667E57FC05478CEB72B766/CrashReportClient.ini
 test(03.26)/MyProject/Intermediate/CachedAssetRegistry.bin
+*.png
